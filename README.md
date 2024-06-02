@@ -1,2 +1,2 @@
 # tailwindCSS
-About TailwindCSS
+https://umeshmk.github.io/Tailwindcss-cheatsheet/
